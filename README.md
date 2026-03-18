@@ -14,12 +14,6 @@ I am a web deweloper at the very beginning of programming path 🧐🤩🥳
   <img src="https://img.shields.io/badge/-phpStorm-black?style=flat-square&logo=phpStorm" alt="phpStorm" style="vertical-align:top; margin:4px">
 </p>
 
-## 💡 My works
-
-- [**D-tinder**](https://github.com/Mari-li/D-tinder): App based on Tinder idea, for people (or anyone 👽🤖👻) to match and meet each other. (PHP, MVC, TWIG, TAILWIND)
-- [**Currency-Converter**](https://github.com/Mari-li/Currency-converter): The App imports currency rates from Bank.lv and converts eur into the desired currency 💶💱💰 (LARAVEL)
-
-<img src="https://github.com/Mari-li/Mari-li/blob/main/github-banner.png" alt="wish a nice day banner">
 
 
 
