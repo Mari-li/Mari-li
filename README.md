@@ -1,7 +1,6 @@
 <h1>Hi, I'm Marija <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-**Full-stack developer** building reliable web applications with **Laravel** and **Vue 3**.
-I care about clean architecture, well-tested code and tools that solve real problems.
+I like finding out why things break. Most of my work is **Laravel** and **Vue**; my latest project monitors SSL certificates so they stop expiring in silence.
 
 [![Email](https://img.shields.io/badge/Email-marija.liscova%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marija.liscova@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marija%20Liscova-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marija-liscova/)
